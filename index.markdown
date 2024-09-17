@@ -6,6 +6,6 @@ Maecenas fringilla maximus mattis. Aliquam id ligula ut lectus congue condimentu
 
 ---
 
-[Home](/mardown-portfolio/)
+[Home](/markdown-portfolio/)
 [Projects](projects)
 [Contact](contact)
